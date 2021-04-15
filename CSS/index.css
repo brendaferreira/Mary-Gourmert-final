@@ -1,9 +1,5 @@
 /*Body*/
 
-body {
-    font-family: 'Roboto Mono', monospace;
-}
-
 
 /*Menu Principal*/
 
@@ -13,17 +9,31 @@ header.menuprincipal {
 }
 
 img.logo {
-    height: 120px;
+    position: absolute;
+    height: 117px;
+    left: 131px;
+}
+
+ul.opcoes {
+    position: absolute;
+    list-style: none;
+    left: 850px;
+    top: 47px;
+}
+
+ul.opcoes li {
+    float: left;
 }
 
 ul.opcoes li a {
-    margin-left: 20px;
-    font-size: 20px;
+    margin-left: 50px;
+    font-size: 26px;
+    text-decoration: none;
     color: #000;
 }
 
 ul.opcoes li a svg {
-    margin-top: -3px;
+    margin-top: 3px;
 }
 
 ul.opcoes li a:hover {
