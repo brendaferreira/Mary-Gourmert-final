@@ -1,0 +1,50 @@
+.principal {
+    display: flex;
+    justify-content: center;
+}
+
+.h1 {
+    font-family: 'Kiwi Maru', serif;
+    margin-left: 400px;
+    font-size: 30px;
+}
+
+.primeiro {
+    display: flex;
+    flex-direction: column;
+    height: 560px;
+    width: 600px;
+}
+
+.primeiroo {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 500px;
+    padding-top: 80px;
+}
+
+.imgetex {
+    display: flex;
+}
+
+.texto h1 {
+    font-size: 15px;
+    font-family: 'Kiwi Maru', serif;
+}
+
+.texto p {
+    font-size: 10px;
+    font-family: 'Kiwi Maru', serif;
+    font-weight: bold;
+    color: rgb(10, 197, 41);
+}
+
+.texto {
+    margin-left: 20px;
+}
+
+.TagImg {
+    margin-bottom: 30px;
+    border-radius: 600px;
+}
