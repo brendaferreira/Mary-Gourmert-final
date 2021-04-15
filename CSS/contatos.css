@@ -16,7 +16,7 @@
     max-height: 120px;
     margin-left: 80px;
     position: relative;
-    top: 95px;
+    top: 85px;
     left: 90px;
     transition: transform 300ms linear;
     opacity: 0.9;
@@ -24,10 +24,9 @@
 
 .TagNavTwo {
     background: rgba(0, 0, 0, 0.87);
-    padding: 20% 17%;
+    padding: 13% 10%;
     height: 100%;
     display: -webkit-box;
-    text-align: center;
     align-items: center;
     color: #ccc;
     border-radius: 10px;
@@ -38,7 +37,7 @@
     margin-left: 80px;
     position: relative;
     left: 740px;
-    top: -320px;
+    top: -420px;
     transition: transform 300ms linear;
     opacity: 0.9;
 }
@@ -122,10 +121,8 @@
     font-weight: 500;
     font-size: 29px;
     color: #FFF;
-    text-align: center;
     position: relative;
-    top: -250px;
-    left: -50px;
+    top: -150px;
 }
 
 .TagP {
@@ -148,11 +145,10 @@
     font-size: 20px;
     text-align: left;
     color: #FFF;
-    top: -170px;
-    padding-left: 0px;
     position: relative;
-    left: -315px;
-    text-align: left;
+    top: -120px;
+    left: -290px;
+    padding-right: 300px;
 }
 
 .TagA {
@@ -171,8 +167,8 @@ label,
 input,
 textarea {
     position: relative;
-    left: -310px;
-    top: -140px;
+    left: -285px;
+    top: -70px;
 }
 
 .Tagbutton {
